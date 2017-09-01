@@ -1,0 +1,23 @@
+{
+  "name": "louisville-mayor-nodejs-audio-player",
+  "version": "1.0.0",
+  "description": "Louisville Mayor Greg Fischer's Podcast as an Alexa skill.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "audio player"
+  ],
+  "author": "Margeaux Spring for Civic Data Alliance",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/civicdata/louisville-mayor-alexa-podcast.git"
+  }
+}
