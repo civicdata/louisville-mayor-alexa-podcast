@@ -11,7 +11,7 @@ var stateHandlers = {
          */
         'LaunchRequest' : function () {
             // Initialize Attributes
-            this.attributes['playOrder'] = Array.apply(null, {length: audioData.length}).map(Number.call, Number);
+            this.attributes['playOrder'] = Array.apply(null, {length: 100}).map(Number.call, Number);
             this.attributes['index'] = 0;
             this.attributes['offsetInMilliseconds'] = 0;
             this.attributes['loop'] = true;
@@ -245,6 +245,7 @@ var controller = function () {
 
             controller.play.call(this);
         },
+        
         playPrevious: function () {
             /*
              *  Called when AMAZON.PreviousIntent or PlaybackController.PreviousCommandIssued is invoked.
