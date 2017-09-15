@@ -9,7 +9,12 @@ var audioData = [
     {
         'title' : 'Episode 2: Immigration',
         'url' : 'https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/340327765-mayor-greg-fischer-podcast-episode-2-immigration.mp3'
-    }
+    },
+    {
+        'title' : 'Episode 3: Bourbonism',
+        'url' : 'http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/342507359-mayor-greg-fischer-podcast-episode-3-bourbonism.mp3'
+    },
+
 ];
 
 module.exports = audioData;
