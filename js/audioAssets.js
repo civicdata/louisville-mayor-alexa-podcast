@@ -12,8 +12,8 @@ var audioData = [
     },
     {
         'title' : 'Episode 3: Bourbonism',
-        'url' : 'http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/342507359-mayor-greg-fischer-podcast-episode-3-bourbonism.mp3'
-    },
+        'url' : 'https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/342507359-mayor-greg-fischer-podcast-episode-3-bourbonism.mp3'
+    }
 
 ];
 
