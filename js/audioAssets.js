@@ -13,8 +13,11 @@ var audioData = [
     {
         'title' : 'Episode 3: Bourbonism',
         'url' : 'https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/342507359-mayor-greg-fischer-podcast-episode-3-bourbonism.mp3'
+    },
+    {
+        'title' : 'Episode 4: Investor-led $200-million development — including a soccer stadium',
+        'url' : 'http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/343543826-mayor-greg-fischer-podcast-episode-4-investor-led-200-million-development-including-a-soccer-stadium.mp3'
     }
-
 ];
 
 module.exports = audioData;

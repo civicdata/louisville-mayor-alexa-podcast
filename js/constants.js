@@ -2,7 +2,7 @@
 
 module.exports = Object.freeze({
 
-    appId : 'YOUR APP ID HERE',
+    appId : 'amzn1.ask.skill.33206772-caca-40b4-ba9a-517db7dda61b',
 
     //  DynamoDB Table name
     dynamoDBTableName : 'LongFormAudioSample',
