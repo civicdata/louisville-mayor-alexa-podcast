@@ -29,6 +29,10 @@ var audioData = [
     {
         'title' : 'Episode 7: $800 million in west Louisville capital investments',
         'url' : 'https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/350649079-mayor-greg-fischer-podcast-episode-7-800-million-in-west-louisville-capital-investments.mp3'
+    },
+    {
+        'title' : 'Episode 8: Courier Journals Sheldon Shafer',
+        'url' : 'https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/357117017-mayor-greg-fischer-podcast-episode-8-courier-journals-sheldon-shafer.mp3'
     }
 
 ];
