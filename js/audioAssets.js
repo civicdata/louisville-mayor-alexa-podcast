@@ -17,7 +17,24 @@ var audioData = [
     {
         'title' : 'Episode 4: Investor led 200 million dollar development, including a soccer stadium',
         'url' : 'https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/343543826-mayor-greg-fischer-podcast-episode-4-investor-led-200-million-development-including-a-soccer-stadium.mp3'
+    },
+    {
+        'title' : 'Episode 5: Dallas Mayor Mike Rawlings; public art',
+        'url' : 'https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/345778901-mayor-greg-fischer-podcast-episode-5-dallas-mayor-mike-rawlings-public-art.mp3'
+    },
+    {
+        'title' : 'Episode 6: Google Fiber turns on the switch; digital inclusion',
+        'url' : 'https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/347473634-mayor-greg-fischer-podcast-episode-6-google-fiber-turns-on-the-switch-digital-inclusion.mp3'
+    },
+    {
+        'title' : 'Episode 7: $800 million in west Louisville capital investments',
+        'url' : 'https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/350649079-mayor-greg-fischer-podcast-episode-7-800-million-in-west-louisville-capital-investments.mp3'
+    },
+    {
+        'title' : 'Episode 8: Courier Journals Sheldon Shafer',
+        'url' : 'https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/357117017-mayor-greg-fischer-podcast-episode-8-courier-journals-sheldon-shafer.mp3'
     }
+
 ];
 
 module.exports = audioData;
